@@ -81,6 +81,7 @@ celerybeat-schedule
 
 # virtualenv
 venv/
+zc_venv/
 ENV/
 
 # Spyder project settings
@@ -147,3 +148,5 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
+db.sqlite3
